@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.cognizant.orm_learn"},{"l":"com.cognizant.ormlearn"},{"l":"com.cognizant.ormlearn.model"},{"l":"com.cognizant.ormlearn.repository"},{"l":"com.cognizant.ormlearn.service"}];updateSearchResults();
